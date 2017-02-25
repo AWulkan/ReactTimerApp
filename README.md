@@ -1,1 +1,3 @@
-### Boilerplate React App
+### React Timer App
+
+![The app structure](app.png)
