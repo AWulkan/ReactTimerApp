@@ -28,7 +28,9 @@ module.exports = {
             // Paths are relative to app.jsx
             Main: "app/components/Main.jsx",
             applicationStyles: "app/styles/app.scss",
-            Navigation: "app/components/Navigation.jsx"
+            Navigation: "app/components/Navigation.jsx",
+            Timer: "app/components/Timer.jsx",
+            Countdown: "app/components/Countdown.jsx"
         },
         // So that you don't have to specify file endings.
         extensions: ["", ".js", ".jsx"]
