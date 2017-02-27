@@ -32,7 +32,8 @@ module.exports = {
             Timer: "app/components/Timer.jsx",
             Countdown: "app/components/Countdown.jsx",
             Clock: "app/components/Clock.jsx",
-            CountdownForm: "app/components/CountdownForm.jsx"
+            CountdownForm: "app/components/CountdownForm.jsx",
+            Controls: "app/components/Controls.jsx"
         },
         // So that you don't have to specify file endings.
         extensions: ["", ".js", ".jsx"]
