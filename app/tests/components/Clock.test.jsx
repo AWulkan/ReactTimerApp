@@ -7,7 +7,7 @@ const TestUtils = require("react-addons-test-utils");
 const Clock = require("Clock");
 
 describe("Clock", () => {
-     it("Should  exist", () => {
+     it("Should exist", () => {
          expect(Clock).toExist();
      });
 
